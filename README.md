@@ -19,6 +19,7 @@ Configure the parameters by:
 
 Localizations:
 * ![](https://www.simplemachines.org/site_images/lang/english.gif) English
+* ![](https://www.simplemachines.org/site_images/lang/russian.gif) Russian (Thanks to [Dragomano Bugo](https://github.com/dragomano))
 * ![](https://www.simplemachines.org/site_images/lang/spanish.gif) Spanish
 
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-%24-green)](https://www.buymeacoffee.com/reslava)
